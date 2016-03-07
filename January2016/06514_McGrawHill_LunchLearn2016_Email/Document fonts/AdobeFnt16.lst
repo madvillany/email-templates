@@ -1,0 +1,273 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldMT
+FamilyName:Arial
+StyleName:Bold
+MenuName:Arial
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Arial Bold
+WritingScript:Roman
+OutlineFileName:\Arial Bold.ttf
+DataFormat:sfntData
+FileLength:751104
+FileModTime:1412308800
+NameArray:0,Mac,4,Arial Bold
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialMT
+FamilyName:Arial
+StyleName:Regular
+MenuName:Arial
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Arial
+WritingScript:Roman
+OutlineFileName:\Arial.ttf
+DataFormat:sfntData
+FileLength:774476
+FileModTime:1412308800
+NameArray:0,Mac,4,Arial
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ArumSansBold
+FamilyName:ArumSans
+StyleName:Bold
+MenuName:ArumSans Lt
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:ArumSans Bold
+WritingScript:Roman
+OutlineFileName:\ArumSansBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:92768
+FileModTime:1410958880
+NameArray:0,Mac,4,ArumSans Bold
+NameArray:0,Win,1,ArumSans Lt
+NameArray:0,Win,16,ArumSans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ArumSansLight
+FamilyName:ArumSans
+StyleName:Light
+MenuName:ArumSans
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:ArumSans Light
+WritingScript:Roman
+OutlineFileName:\ArumSansLight.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:152768
+FileModTime:1410958922
+NameArray:0,Mac,4,ArumSans Light
+NameArray:0,Win,1,ArumSans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri-Bold
+FamilyName:Calibri
+StyleName:Bold
+MenuName:Calibri
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Calibri Bold
+WritingScript:Roman
+OutlineFileName:\Calibri Bold.ttf
+DataFormat:sfntData
+FileLength:817552
+FileModTime:1412308800
+NameArray:0,Mac,4,Calibri Bold
+NameArray:0,Win,1,Calibri
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri
+FamilyName:Calibri
+StyleName:Regular
+MenuName:Calibri
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Calibri
+WritingScript:Roman
+OutlineFileName:\Calibri.ttf
+DataFormat:sfntData
+FileLength:780064
+FileModTime:1412308800
+NameArray:0,Mac,4,Calibri
+NameArray:0,Win,1,Calibri
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:EuropaGroSBOP-LigCon
+FamilyName:EuropaGroSBOP-LigCon
+StyleName:Regular
+MenuName:EuropaGroSBOP-LigCon
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:EuropaGroSBOP-LigCon
+WritingScript:Roman
+OutlineFileName:\EuropaGroSBOP-LigCon.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:21296
+FileModTime:1380295338
+NameArray:0,Mac,4,EuropaGroSBOP-LigCon
+NameArray:0,Win,1,EuropaGroSBOP-LigCon
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:EuropaGroSBOP-MedCon
+FamilyName:EuropaGroSBOP-MedCon
+StyleName:Regular
+MenuName:EuropaGroSBOP-MedCon
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:EuropaGroSBOP-MedCon
+WritingScript:Roman
+OutlineFileName:\EuropaGroSBOP-MedCon.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:22240
+FileModTime:1380295314
+NameArray:0,Mac,4,EuropaGroSBOP-MedCon
+NameArray:0,Win,1,EuropaGroSBOP-MedCon
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FranklinGothic-Book
+FamilyName:Franklin Gothic Book
+StyleName:Regular
+MenuName:Franklin Gothic Book
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Franklin Gothic Book
+WritingScript:Roman
+OutlineFileName:\Franklin Gothic Book.ttf
+DataFormat:sfntData
+FileLength:152700
+FileModTime:1412308800
+NameArray:0,Mac,4,Franklin Gothic Book
+NameArray:0,Win,1,Franklin Gothic Book
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCFranklinGothicStd-Book
+FamilyName:ITC Franklin Gothic Std
+StyleName:Book
+MenuName:ITC Franklin Gothic Std Book
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:ITC Franklin Gothic Std Book
+WritingScript:Roman
+OutlineFileName:\ITC - ITCFranklinGothicStd-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28360
+FileModTime:1442851190
+NameArray:0,Mac,4,ITC Franklin Gothic Std Book
+NameArray:0,Win,1,ITC Franklin Gothic Std Book
+NameArray:0,Win,16,ITC Franklin Gothic Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218640
+FileModTime:1438266914
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:VectipedeRg-Bold
+FamilyName:Vectipede
+StyleName:Bold
+MenuName:Vectipede Rg
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:VectipedeRg-Bold
+WritingScript:Roman
+OutlineFileName:\VectipedeRg-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:70064
+FileModTime:1410932828
+NameArray:0,Mac,4,VectipedeRg-Bold
+NameArray:0,Win,1,Vectipede Rg
+NameArray:0,Win,16,Vectipede
+%EndFont
+
